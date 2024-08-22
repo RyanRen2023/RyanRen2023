@@ -9,11 +9,6 @@ Welcome to my GitHub! I’m a passionate software developer with over 6 years of
 	•	Database Management: Skilled in managing and optimizing MySQL, Oracle, and PostgreSQL databases to ensure efficient data handling and performance.
 	•	Microservices Architecture: Experienced in designing flexible, maintainable systems that perform well under high concurrency.
 
-🚀 Current Projects
-
-	•	Food Waste Reduction Platform: A collaborative project focused on reducing global food waste through efficient management and distribution.
-	•	Airline Management System: A system designed to manage various aspects of airline operations, including customer and flight management.
-	•	Task Management Application: A dynamic web application for managing tasks with features like login authentication and task tracking.
 
 🎓 Ongoing Learning
 
