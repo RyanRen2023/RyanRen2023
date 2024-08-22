@@ -20,5 +20,5 @@ I’m passionate about continuous learning and improving my skills. Whether it�
 
 📫 Get in Touch
 
-Feel free to explore my repositories and check out my projects. You can also connect with me on LinkedIn or reach out via email at renxihai@gmail.com.
+Feel free to explore my repositories and check out my projects. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/xihai-ren/) or reach out via email at renxihai@gmail.com.
 
