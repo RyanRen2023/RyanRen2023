@@ -14,7 +14,8 @@ Welcome to my GitHub! I’m an enthusiastic software developer with over 6 years
 
 I’m currently pursuing a Graduate Certificate in Cloud Development and Operations at Algonquin College, focusing on modern cloud-based architectures, DevOps methodologies, and AWS technologies to stay ahead of industry trends.
 
-Recent Projects
+Recent Projects:
+
 	•	Multilingual Database Application: Designed and implemented a multilingual web application using Spring Boot, Thymeleaf, and MySQL, with automated testing using JUnit.
 	•	The Culture Screener: Developed WordPress plugins using PHP and jQuery, integrated Selenium-based web automation testing, and enhanced system reliability.
 
@@ -22,6 +23,7 @@ Recent Projects
 🌱 Always Growing
 
 Learning and improvement are at the heart of everything I do. My current focus areas include:
+
 	•	Cloud Technologies: AWS, Docker, Kubernetes
 	•	Testing Automation: Selenium, JUnit, PHPUnit
 	•	New Languages: Exploring Go and enhancing Python proficiency
