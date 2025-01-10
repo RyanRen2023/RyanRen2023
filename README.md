@@ -1,6 +1,6 @@
 👋 Hi, I’m Xihai Ren
 
-Welcome to my GitHub! I’m a passionate software developer with over 6 years of experience, specializing in Java development, microservices architecture, and full-stack web development. My journey in tech has equipped me with the skills to build scalable, high-performance applications, and I’m always eager to learn and explore new technologies.
+Welcome to my GitHub! I’m an enthusiastic software developer with over 6 years of professional experience in Java development, microservices architecture, and full-stack web development. My passion lies in building scalable, efficient, and user-centric applications, and I’m always on the lookout for new technologies and challenges to further enhance my expertise.
 
 💻 What I Do
 
@@ -12,13 +12,23 @@ Welcome to my GitHub! I’m a passionate software developer with over 6 years of
 
 🎓 Ongoing Learning
 
-I’m currently pursuing a diploma in Computer Programming at Algonquin College to enhance my technical knowledge and stay updated with the latest industry trends.
+I’m currently pursuing a Graduate Certificate in Cloud Development and Operations at Algonquin College, focusing on modern cloud-based architectures, DevOps methodologies, and AWS technologies to stay ahead of industry trends.
+
+Recent Projects
+	•	Multilingual Database Application: Designed and implemented a multilingual web application using Spring Boot, Thymeleaf, and MySQL, with automated testing using JUnit.
+	•	The Culture Screener: Developed WordPress plugins using PHP and jQuery, integrated Selenium-based web automation testing, and enhanced system reliability.
+
 
 🌱 Always Growing
 
-I’m passionate about continuous learning and improving my skills. Whether it’s exploring new programming languages, diving into new frameworks, or refining my existing knowledge, I’m always ready to take on new challenges.
+Learning and improvement are at the heart of everything I do. My current focus areas include:
+	•	Cloud Technologies: AWS, Docker, Kubernetes
+	•	Testing Automation: Selenium, JUnit, PHPUnit
+	•	New Languages: Exploring Go and enhancing Python proficiency
 
 📫 Get in Touch
 
-Feel free to explore my repositories and check out my projects. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/xihai-ren/) or reach out via email at renxihai@gmail.com.
+	•	Explore my repositories for more about my projects and contributions.
+	•	Connect with me on [LinkedIn](https://www.linkedin.com/in/xihai-ren/).
+	•	Feel free to reach out via email at renxihai@gmail.com.
 
